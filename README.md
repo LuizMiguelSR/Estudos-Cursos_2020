@@ -6,3 +6,8 @@ Cursos realizados em 2020
 ### Lógica de Programação
 1. [Aulas](/Algoritmo)
 2. [Exercícios](/Algoritmo)
+
+### DevC++
+1. [Aulas](/DevC/Aulas)
+2. [Exercícios](/DevC)
+

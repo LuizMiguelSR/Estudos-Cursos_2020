@@ -4,7 +4,7 @@ Cursos realizados em 2020
 ## Navegação
 
 ### Lógica de Programação
-1. [Aulas](/Algoritmo)
+1. [Aulas](/Algoritmo/Curso%20em%20video%20aulas)
 2. [Exercícios](/Algoritmo)
 
 ### DevC++

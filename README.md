@@ -4,5 +4,5 @@ Cursos realizados em 2020
 ## Navegação
 
 ### Lógica de Programação
-1. [Aulas](/Algoritmo/Algoritmos.md)
-2. [Exercícios](/Algoritmo/Algoritmos.md)
+1. [Aulas](/Algoritmo)
+2. [Exercícios](/Algoritmo)

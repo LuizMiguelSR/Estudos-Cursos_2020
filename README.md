@@ -1,5 +1,8 @@
-# Cursos_2020
+# Cursos 2020
 Cursos realizados em 2020
-Lógica de Programação https://github.com/LuizMiguelSR/Cursos_2020/tree/main/Algoritmo
-DevC++ https://github.com/LuizMiguelSR/Cursos_2020/tree/main/DevC
-JavaScript https://github.com/LuizMiguelSR/Cursos_2020/tree/main/Javascript/Aulas
+
+## Navegação
+
+### Lógica de Programação
+1. [Aulas](/Algoritmo/Curso_em_video_aulas/CursoEmVideoAulas.md)
+2. [Exercícios](/Algoritmo/Meus_exercicios/CursoEmVideoEx.md)

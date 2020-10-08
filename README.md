@@ -9,5 +9,5 @@ Cursos realizados em 2020
 
 ### DevC++
 1. [Aulas](/DevC/Aulas)
-2. [Exercícios](/DevC)
+2. [Exercícios](/DevC/Exercícios%20resolvidos)
 

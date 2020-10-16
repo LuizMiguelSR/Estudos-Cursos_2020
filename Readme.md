@@ -21,4 +21,5 @@
 [Link YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
 1. [Aulas](/PHP/Aulas)
   2. [Aula04](/PHP/Aulas/Aula04)
-3. [Exames](/PHP/Exercícios)
+  3. [Aula05](/PHP/Aulas/Aula05)
+4. [Exames](/PHP/Exercícios)

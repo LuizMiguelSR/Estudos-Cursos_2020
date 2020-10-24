@@ -26,4 +26,5 @@
   5. [Aula07](/PHP/Aulas/Aula07)
   6. [Aula08](/PHP/Aulas/Aula08)
   7. [Aula09](/PHP/Aulas/Aula09)
-8. [Exames](/PHP/Exercícios)
+  8. [Aula10](/PHP/Aulas/Aula10)
+9. [Exames](/PHP/Exercícios)

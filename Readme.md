@@ -32,3 +32,6 @@
   11. [Aula13](/PHP/Aulas/Aula13)
   12. [Aula14](/PHP/Aulas/Aula14)
   13. [Aula15](/PHP/Aulas/Aula15)
+  13. [Aula16](/PHP/Aulas/Aula16)
+  13. [Aula17](/PHP/Aulas/Aula17)
+  13. [Aula18](/PHP/Aulas/Aula18)

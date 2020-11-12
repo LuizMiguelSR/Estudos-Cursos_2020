@@ -23,5 +23,5 @@
 
 ### Python 3.9
 [Link YouTube](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
-1. [Aulas](/Javascript/Aulas)
-2. [Desafios](/Javascript/Aulas)
+1. [Aulas](/Python3.9/Aulas)
+2. [Desafios](/Python3.9/Desafios)

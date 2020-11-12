@@ -20,3 +20,8 @@
 ### PHP
 [Link YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
 1. [Aulas](/PHP/Aulas)
+
+### Python 3.9
+[Link YouTube](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+1. [Aulas](/Javascript/Aulas)
+2. [Desafios](/Javascript/Aulas)

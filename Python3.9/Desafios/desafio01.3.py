@@ -1,0 +1,5 @@
+print ('======= Desafio 03 =======')
+n1 = int(input ('Digite um número: '))
+n2 = int(input ('Digite outro número: '))
+n3 = (n1 + n2)
+print ('A soma entre \033[4;35m',n1,'\33[m e \033[4;35m',n2,'\33[m é igual a \033[4;35m',n3,'\33[m')

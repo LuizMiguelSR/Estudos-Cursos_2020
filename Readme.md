@@ -15,7 +15,7 @@
 ### JavaScript
 [Link YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 1. [Aulas](/Javascript/Aulas)
-2. [Exames](/Javascript/Aulas)
+2. [Exercícios](/Javascript/Exercicios)
 
 ### PHP
 [Link YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)

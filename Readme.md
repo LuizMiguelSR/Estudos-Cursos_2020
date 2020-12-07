@@ -7,7 +7,7 @@
 1. [Aulas](/Algoritmo/Curso%20em%20video%20aulas)
 2. [Exames](/Algoritmo/Meus%20exercicios)
 
-### DevC++
+### Linguagem C
 [Link YouTube](https://www.youtube.com/playlist?list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P)
 1. [Aulas](/DevC/Aulas)
 2. [Exames](/DevC/Exercícios%20resolvidos)

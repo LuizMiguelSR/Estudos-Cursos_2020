@@ -1,4 +1,4 @@
-# 📚 Cursos de Aperfeiçoamento em 2020 📚
+# 📚 Cursos iniciados em 2020 📚
 
 ## Lógica de Programação
 
